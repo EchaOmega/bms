@@ -1,0 +1,183 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "83eb8aabebb34df8c764c8a8e688e672",
+      "info": {
+        "title": "Occlusion",
+        "artist": "Ank⟐",
+        "genre": "VISION",
+        "subtitles": [
+          "[SP ANOTHER]"
+        ],
+        "subartists": [
+          "bga:Echa/obj:Echa"
+        ],
+        "difficulty": 4,
+        "level": 11
+      },
+      "noteCount": 1642,
+      "bpm": {
+        "init": 181,
+        "min": 90.5,
+        "median": 181,
+        "max": 181
+      },
+      "duration": 149.8342541436464,
+      "scratch": true,
+      "keys": "7K",
+      "file": "another.bms"
+    },
+    {
+      "md5": "fea3c692a1145b7aa8d05b955731f543",
+      "info": {
+        "title": "Occlusion",
+        "artist": "Ank⟐",
+        "genre": "VISION",
+        "subtitles": [
+          "[SP BEGINNER]"
+        ],
+        "subartists": [
+          "bga:Echa/obj:Echa"
+        ],
+        "difficulty": 1,
+        "level": 3
+      },
+      "noteCount": 218,
+      "bpm": {
+        "init": 181,
+        "min": 90.5,
+        "median": 181,
+        "max": 181
+      },
+      "duration": 149.8342541436464,
+      "scratch": true,
+      "keys": "7K",
+      "file": "beginner.bms"
+    },
+    {
+      "md5": "c77c88a975e327bcfe1db0350c678727",
+      "info": {
+        "title": "Occlusion",
+        "artist": "Ank⟐",
+        "genre": "VISION",
+        "subtitles": [
+          "[SP HYPER]"
+        ],
+        "subartists": [
+          "bga:Echa/obj:Echa"
+        ],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 974,
+      "bpm": {
+        "init": 181,
+        "min": 90.5,
+        "median": 181,
+        "max": 181
+      },
+      "duration": 149.8342541436464,
+      "scratch": true,
+      "keys": "7K",
+      "file": "hyper.bms"
+    },
+    {
+      "md5": "7b27e58baf623ee16d271dcf1dffcb30",
+      "info": {
+        "title": "Occlusion",
+        "artist": "Ank⟐",
+        "genre": "VISION",
+        "subtitles": [
+          "[SP NORMAL]"
+        ],
+        "subartists": [
+          "bga:Echa/obj:Echa"
+        ],
+        "difficulty": 2,
+        "level": 8
+      },
+      "noteCount": 532,
+      "bpm": {
+        "init": 181,
+        "min": 90.5,
+        "median": 181,
+        "max": 181
+      },
+      "duration": 149.8342541436464,
+      "scratch": true,
+      "keys": "7K",
+      "file": "normal.bms"
+    },
+    {
+      "md5": "b9f7b497227c10a9ca75025a1f6e87f8",
+      "info": {
+        "title": "Occlusion",
+        "artist": "Ank⟐",
+        "genre": "VISION",
+        "subtitles": [
+          "[SP OVERJOY]"
+        ],
+        "subartists": [
+          "bga:Echa/obj:Echa"
+        ],
+        "difficulty": 5,
+        "level": 4
+      },
+      "noteCount": 4437,
+      "bpm": {
+        "init": 181,
+        "min": 90.5,
+        "median": 181,
+        "max": 181
+      },
+      "duration": 149.8342541436464,
+      "scratch": true,
+      "keys": "7K",
+      "file": "overjoy.bms"
+    },
+    {
+      "md5": "074e77bf846176736d519dd4df9b7499",
+      "info": {
+        "title": "Occlusion",
+        "artist": "Ank⟐",
+        "genre": "VISION",
+        "subtitles": [
+          "[SP INSANE]"
+        ],
+        "subartists": [
+          "bga:Echa / obj:Ank⟐"
+        ],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 2343,
+      "bpm": {
+        "init": 181,
+        "min": 90.5,
+        "median": 181,
+        "max": 181
+      },
+      "duration": 149.8342541436464,
+      "scratch": true,
+      "keys": "7K",
+      "file": "pattern blindness.bms"
+    }
+  ],
+  "title": "Occlusion",
+  "artist": "Ank⟐",
+  "genre": "VISION",
+  "bpm": 181,
+  "video_url": "bemuse-data/bga.mp4",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=104&event=142",
+  "youtube_url": "https://www.youtube.com/watch?v=5UhJ8UCT1BY",
+  "bmssearch_id": "orhH1qhEtFryUz",
+  "artist_url": "https://soundcloud.com/ankomakesmusic",
+  "readme": "README.md",
+  "replaygain": "-0.02 dB",
+  "preview_offset": 54,
+  "preview_url": "bemuse-data/preview.mp3",
+  "video_offset": 1.32
+}
